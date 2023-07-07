@@ -1,11 +1,13 @@
 package main
 
+import "fmt"
+
 func solve() {
-	e, s := checkField()
-	if e {
-		panic("error")
-	}
-	if s {
-		panic("solved")
+	checkField()
+	for x := 0; x < 9; x++ {
+		for y := 0; y < 9; y++ {
+			a := possibleNumbers(x, y)
+			fmt.Println(a)
+		}
 	}
 }

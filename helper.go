@@ -1,19 +1,24 @@
 package main
 
+import "fmt"
+
 // check if field is solved or if there are any illegal placements
-// return: errors, solved
-func checkField() (bool, bool) {
-	solved := true
+// return: errors, missing (0 == solved)
+func checkField() (bool, int) {
+	missing := 0
+	err := false
+
 	// check all rows
 	for i := 0; i < 9; i++ {
 		var m = make(map[int]bool)
 		for j := 0; j < 9; j++ {
 			d := field[i][j]
 			if d == 0 {
-				solved = false
+				missing++
+				continue
 			}
 			if m[d] == true {
-				return false, false
+				err = true
 			}
 			m[d] = true
 		}
@@ -21,14 +26,14 @@ func checkField() (bool, bool) {
 
 	// check all cols
 	for i := 0; i < 9; i++ {
-		var m map[int]bool
+		var m = make(map[int]bool)
 		for j := 0; j < 9; j++ {
 			d := field[j][i]
 			if d == 0 {
-				solved = false
+				continue
 			}
 			if m[d] == true {
-				return false, false
+				err = true
 			}
 			m[d] = true
 		}
@@ -39,15 +44,15 @@ func checkField() (bool, bool) {
 		for y := 0; y < 3; y++ {
 
 			// check square (x,y)
-			var m map[int]bool
+			var m = make(map[int]bool)
 			for i := 0; i < 3; i++ {
 				for j := 0; j < 3; j++ {
 					d := field[x*3+i][y*3+j]
 					if d == 0 {
-						solved = false
+						continue
 					}
 					if m[d] == true {
-						return false, false
+						err = true
 					}
 					m[d] = true
 				}
@@ -55,6 +60,40 @@ func checkField() (bool, bool) {
 
 		}
 	}
+	fmt.Printf("missing: %d\n", missing)
+	if err {
+		fmt.Printf("has errors\n")
+	}
+	if missing == 0 {
+		fmt.Printf("is solved\n")
+	}
+	return err, missing
+}
 
-	return true, solved
+func possibleNumbers(x int, y int) []int {
+	var m = make(map[int]bool)
+	for i := 1; i <= 9; i++ {
+		m[i] = true
+	}
+
+	for i := 0; i < 9; i++ {
+		// check row
+		if i != y {
+			d := field[x][i]
+			m[d] = false
+		}
+		// check col
+		if i != x {
+			d := field[i][y]
+			m[d] = false
+		}
+	}
+
+	var r []int
+	for i := 1; i <= 9; i++ {
+		if m[i] {
+			r = append(r, i)
+		}
+	}
+	return r
 }
