@@ -4,7 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
+	"time"
 )
 
 var field [9][9]int
@@ -43,8 +45,13 @@ func printField() {
 }
 
 func main() {
+	start := time.Now()
+
 	initField()
 
 	solve()
 	printField()
+
+	elapsed := time.Since(start)
+	log.Printf("Binomial took %s", elapsed)
 }

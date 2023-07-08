@@ -89,6 +89,15 @@ func possibleNumbers(x int, y int) []int {
 		}
 	}
 
+	x1 := x / 3
+	y1 := y / 3
+	for i := 0; i < 3; i++ {
+		for j := 0; j < 3; j++ {
+			d := field[x1*3+i][y1*3+j]
+			m[d] = false
+		}
+	}
+
 	var r []int
 	for i := 1; i <= 9; i++ {
 		if m[i] {
