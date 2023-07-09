@@ -43,6 +43,9 @@ Given example from above returns:
 ┗7│8│2┃1│6│5┃9│3│4┛
 ```
 
+The single steps of the solving process are printed to the console as well. An example run
+can be found in [example_output.txt](blob/master/example_output.txt).
+
 ## Functionality - How it works
 
 ### Data Model
