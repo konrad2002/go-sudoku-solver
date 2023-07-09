@@ -1,0 +1,1428 @@
+Successfully opened field.json
+---==[ CURRENT FIELD ]==---
+┏ │9│ ┃ │5│ ┃3│4│ ┓
+┃1│4│ ┃6│ │ ┃8│ │ ┃
+┗ │ │ ┃8│ │1┃ │ │ ┛
+┏ │ │ ┃ │3│ ┃ │6│9┓
+┃ │ │ ┃ │ │ ┃ │ │ ┃
+┗8│2│ ┃ │1│ ┃ │ │ ┛
+┏ │ │ ┃3│ │4┃ │ │ ┓
+┃ │ │6┃ │ │9┃ │7│5┃
+┗ │8│2┃ │6│ ┃ │3│ ┛
+
+
+
+SOLVE FUNCTION has been called
+missing: 55
+searching field with 1 possible number...
+1 option field found: (5,7)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 54
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (0,2), testing all options:
+ -> (0,2) option 0: 7
+
+SOLVE FUNCTION has been called
+missing: 53
+searching field with 1 possible number...
+1 option field found: (0,3)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 52
+searching field with 1 possible number...
+1 option field found: (0,0)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 51
+searching field with 1 possible number...
+1 option field found: (0,8)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 50
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 49
+searching field with 1 possible number...
+1 option field found: (7,1)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 48
+searching field with 1 possible number...
+1 option field found: (2,1)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 47
+searching field with 1 possible number...
+1 option field found: (1,2)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 46
+searching field with 1 possible number...
+1 option field found: (1,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 45
+searching field with 1 possible number...
+1 option field found: (1,4)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 44
+searching field with 1 possible number...
+1 option field found: (1,7)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 43
+searching field with 1 possible number...
+1 option field found: (2,0)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 42
+searching field with 1 possible number...
+1 option field found: (2,4)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 41
+searching field with 1 possible number...
+1 option field found: (2,7)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 40
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 39
+searching field with 1 possible number...
+1 option field found: (7,0)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 38
+searching field with 1 possible number...
+1 option field found: (7,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 37
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 36
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 35
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 34
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 33
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 32
+searching field with 1 possible number...
+1 option field found: (8,0)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 31
+searching field with 1 possible number...
+1 option field found: (8,8)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 30
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 29
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 28
+searching field with 1 possible number...
+1 option field found: (3,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 27
+searching field with 1 possible number...
+1 option field found: (2,6)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (2,8)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (3,0)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (3,1)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (3,2)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (4,1)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (5,8)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (6,6)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (6,8)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 0 options (min)...
+found field with 0 options at (0,5), testing all options:
+solving the sudoku with the current setting of numbers is impossible, returning to point of last decision
+ -> (0,2) option 1: 8
+
+SOLVE FUNCTION has been called
+missing: 53
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (0,3), testing all options:
+ -> (0,3) option 0: 2
+
+SOLVE FUNCTION has been called
+missing: 52
+searching field with 1 possible number...
+1 option field found: (0,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 51
+searching field with 1 possible number...
+1 option field found: (0,0)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 50
+searching field with 1 possible number...
+1 option field found: (0,8)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 49
+searching field with 1 possible number...
+1 option field found: (1,4)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 48
+searching field with 1 possible number...
+1 option field found: (1,5)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 47
+searching field with 1 possible number...
+1 option field found: (1,7)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 46
+searching field with 1 possible number...
+1 option field found: (1,8)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 45
+searching field with 1 possible number...
+1 option field found: (1,2)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 44
+searching field with 1 possible number...
+1 option field found: (2,4)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 43
+searching field with 1 possible number...
+1 option field found: (2,7)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 42
+searching field with 1 possible number...
+1 option field found: (2,8)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 41
+searching field with 1 possible number...
+1 option field found: (2,6)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 40
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 39
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 38
+searching field with 1 possible number...
+1 option field found: (7,1)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 37
+searching field with 1 possible number...
+1 option field found: (2,1)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 36
+searching field with 1 possible number...
+1 option field found: (2,2)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 35
+searching field with 1 possible number...
+1 option field found: (2,0)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 34
+searching field with 1 possible number...
+1 option field found: (7,0)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 33
+searching field with 1 possible number...
+1 option field found: (7,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 32
+searching field with 1 possible number...
+1 option field found: (6,8)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 31
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 30
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 29
+searching field with 1 possible number...
+1 option field found: (6,1)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 28
+searching field with 1 possible number...
+1 option field found: (3,1)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 27
+searching field with 1 possible number...
+1 option field found: (4,1)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (4,5)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (3,5)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (8,0)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (3,0)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (3,3)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (3,2)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (4,8)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 11
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 10
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 9
+searching field with 1 possible number...
+1 option field found: (5,2)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 8
+searching field with 1 possible number...
+1 option field found: (5,3)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 7
+searching field with 1 possible number...
+1 option field found: (5,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 6
+searching field with 1 possible number...
+1 option field found: (5,8)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 5
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 4
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 0 options (min)...
+found field with 0 options at (3,6), testing all options:
+solving the sudoku with the current setting of numbers is impossible, returning to point of last decision
+ -> (0,3) option 1: 7
+
+SOLVE FUNCTION has been called
+missing: 52
+searching field with 1 possible number...
+1 option field found: (0,5)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 51
+searching field with 1 possible number...
+1 option field found: (0,0)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 50
+searching field with 1 possible number...
+1 option field found: (0,8)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 49
+searching field with 1 possible number...
+1 option field found: (1,4)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 48
+searching field with 1 possible number...
+1 option field found: (1,5)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 47
+searching field with 1 possible number...
+1 option field found: (1,7)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 46
+searching field with 1 possible number...
+1 option field found: (1,8)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 45
+searching field with 1 possible number...
+1 option field found: (1,2)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 44
+searching field with 1 possible number...
+1 option field found: (2,4)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 43
+searching field with 1 possible number...
+1 option field found: (2,7)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 42
+searching field with 1 possible number...
+1 option field found: (2,8)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 41
+searching field with 1 possible number...
+1 option field found: (2,6)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 40
+searching field with 1 possible number...
+1 option field found: (8,8)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 39
+searching field with 1 possible number...
+1 option field found: (5,8)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 38
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (2,1), testing all options:
+ -> (2,1) option 0: 3
+
+SOLVE FUNCTION has been called
+missing: 37
+searching field with 1 possible number...
+1 option field found: (2,2)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 36
+searching field with 1 possible number...
+1 option field found: (2,0)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 35
+searching field with 1 possible number...
+1 option field found: (7,1)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 34
+searching field with 1 possible number...
+1 option field found: (6,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 33
+searching field with 1 possible number...
+1 option field found: (5,2)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 32
+searching field with 1 possible number...
+1 option field found: (3,2)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 31
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 30
+searching field with 1 possible number...
+1 option field found: (5,3)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 29
+searching field with 1 possible number...
+1 option field found: (5,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 28
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 27
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (4,8)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (3,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (3,3)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (4,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (3,5)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (4,1)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+1 option field found: (3,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 11
+searching field with 1 possible number...
+1 option field found: (3,1)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 10
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 9
+searching field with 1 possible number...
+1 option field found: (6,8)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 8
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 7
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 6
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 5
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 0 options (min)...
+found field with 0 options at (6,1), testing all options:
+solving the sudoku with the current setting of numbers is impossible, returning to point of last decision
+ -> (2,1) option 1: 7
+
+SOLVE FUNCTION has been called
+missing: 37
+searching field with 1 possible number...
+1 option field found: (2,2)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 36
+searching field with 1 possible number...
+1 option field found: (2,0)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 35
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (3,1), testing all options:
+ -> (3,1) option 0: 1
+
+SOLVE FUNCTION has been called
+missing: 34
+searching field with 1 possible number...
+1 option field found: (6,1)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 33
+searching field with 1 possible number...
+1 option field found: (7,1)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 32
+searching field with 1 possible number...
+1 option field found: (4,1)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 31
+searching field with 1 possible number...
+1 option field found: (7,0)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 30
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (3,0), testing all options:
+ -> (3,0) option 0: 5
+
+SOLVE FUNCTION has been called
+missing: 29
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (3,2), testing all options:
+ -> (3,2) option 0: 4
+
+SOLVE FUNCTION has been called
+missing: 28
+searching field with 1 possible number...
+1 option field found: (3,3)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 27
+searching field with 1 possible number...
+1 option field found: (3,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (3,5)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (4,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (5,2)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (5,3)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (5,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (6,2)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+1 option field found: (4,8)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 11
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 10
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 9
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 8
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 7
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 6
+searching field with 1 possible number...
+1 option field found: (8,0)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 5
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 4
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 3
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 0 options (min)...
+found field with 0 options at (6,8), testing all options:
+solving the sudoku with the current setting of numbers is impossible, returning to point of last decision
+ -> (3,2) option 1: 7
+
+SOLVE FUNCTION has been called
+missing: 28
+searching field with 1 possible number...
+1 option field found: (3,5)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 27
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 2 options (min)...
+found field with 2 options at (3,3), testing all options:
+ -> (3,3) option 0: 2
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (3,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (4,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (5,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (7,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (4,8)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (6,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 11
+searching field with 1 possible number...
+1 option field found: (5,3)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 10
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 9
+searching field with 1 possible number...
+1 option field found: (6,6)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 8
+searching field with 1 possible number...
+1 option field found: (6,8)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 7
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 6
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 5
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 4
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 3
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 2
+searching field with 1 possible number...
+no 1 option field found, contiue looking for 0 options (min)...
+found field with 0 options at (5,2), testing all options:
+solving the sudoku with the current setting of numbers is impossible, returning to point of last decision
+ -> (3,3) option 1: 4
+
+SOLVE FUNCTION has been called
+missing: 26
+searching field with 1 possible number...
+1 option field found: (3,6)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 25
+searching field with 1 possible number...
+1 option field found: (4,8)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 24
+searching field with 1 possible number...
+1 option field found: (4,7)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 23
+searching field with 1 possible number...
+1 option field found: (5,3)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 22
+searching field with 1 possible number...
+1 option field found: (5,2)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 21
+searching field with 1 possible number...
+1 option field found: (4,2)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 20
+searching field with 1 possible number...
+1 option field found: (4,0)
+[+] adding number '3'
+
+SOLVE FUNCTION has been called
+missing: 19
+searching field with 1 possible number...
+1 option field found: (5,6)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 18
+searching field with 1 possible number...
+1 option field found: (4,6)
+[+] adding number '4'
+
+SOLVE FUNCTION has been called
+missing: 17
+searching field with 1 possible number...
+1 option field found: (5,5)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 16
+searching field with 1 possible number...
+1 option field found: (6,2)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 15
+searching field with 1 possible number...
+1 option field found: (6,7)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 14
+searching field with 1 possible number...
+1 option field found: (6,8)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 13
+searching field with 1 possible number...
+1 option field found: (6,4)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 12
+searching field with 1 possible number...
+1 option field found: (4,4)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 11
+searching field with 1 possible number...
+1 option field found: (4,3)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 10
+searching field with 1 possible number...
+1 option field found: (4,5)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 9
+searching field with 1 possible number...
+1 option field found: (6,0)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 8
+searching field with 1 possible number...
+1 option field found: (6,6)
+[+] adding number '6'
+
+SOLVE FUNCTION has been called
+missing: 7
+searching field with 1 possible number...
+1 option field found: (7,4)
+[+] adding number '8'
+
+SOLVE FUNCTION has been called
+missing: 6
+searching field with 1 possible number...
+1 option field found: (7,6)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 5
+searching field with 1 possible number...
+1 option field found: (7,3)
+[+] adding number '2'
+
+SOLVE FUNCTION has been called
+missing: 4
+searching field with 1 possible number...
+1 option field found: (8,0)
+[+] adding number '7'
+
+SOLVE FUNCTION has been called
+missing: 3
+searching field with 1 possible number...
+1 option field found: (8,3)
+[+] adding number '1'
+
+SOLVE FUNCTION has been called
+missing: 2
+searching field with 1 possible number...
+1 option field found: (8,5)
+[+] adding number '5'
+
+SOLVE FUNCTION has been called
+missing: 1
+searching field with 1 possible number...
+1 option field found: (8,6)
+[+] adding number '9'
+
+SOLVE FUNCTION has been called
+missing: 0
+is solved
+solving failed
+---==[ CURRENT FIELD ]==---
+┏6│9│8┃7│5│2┃3│4│1┓
+┃1│4│5┃6│9│3┃8│2│7┃
+┗2│7│3┃8│4│1┃5│9│6┛
+┏5│1│7┃4│3│8┃2│6│9┓
+┃3│6│9┃5│2│7┃4│1│8┃
+┗8│2│4┃9│1│6┃7│5│3┛
+┏9│5│1┃3│7│4┃6│8│2┓
+┃4│3│6┃2│8│9┃1│7│5┃
+┗7│8│2┃1│6│5┃9│3│4┛
+
+
+2023/07/09 17:38:20 Binomial took 6.671458ms

@@ -42,3 +42,40 @@ Given example from above returns:
 ┃4│3│6┃2│8│9┃1│7│5┃
 ┗7│8│2┃1│6│5┃9│3│4┛
 ```
+
+## Functionality - How it works
+
+### Data Model
+
+A given sudoku riddle is stored as a matrix of numbers, represented by an array of an array of numbers (`var [9][9]int`)
+The field is read from a json file, see [Input](#input)
+
+### Helper functions
+
+First of all let me introduce two important helper functions: `checkField()` and `possibleNumbers(x,y)`.
+The `checkField()` function returns two values. A `boolean`, that tells if the given field is a valid sudoku 
+game and is set to true if there is any violation of the games rules, like two 8 in a row. The method 
+`possibleNumbers(x,y)` returns an array of numbers that contains all the numbers that could be inserted into the 
+field at position (x,y) without violating the game rules.
+
+### `solve()` function
+
+This function is finally used to solve a sudoku. It is called recursively which means, that it can solve a sudoku 
+at any stage by calling itself.
+
+First of all the functions iterates over all the numbers in the sudoku and looks for the field with the smallest amount
+of possible numbers, by calling `possibleNumbers(x,y)` for every field. If coordinates are found where the given number 
+only has one option, the number at this position is replaced with the only possibility and the solve functions calls
+itself again with the modified sudoku.
+
+If after iterating over every field no field with only one possible option has been found, a second iteration over the fields starts.
+This time the function looks for the first field with minimal amount of possible numbers to be placed there.
+After this position is found it loops over all the possibilities for this field and for each option continues solving
+with the `solve()` function.
+
+The function returns the field after solving and a boolean that is `false` if solving the given field has failed.
+At the point where the function is testing every possible option of a field it first assigns the first option
+to this field and calls the `solve()` function with this modified field. If the solving algorithm returns `false`
+it moves on to the next possible number for this field.
+
+An example execution can be retraced when looking into the example log output mentioned unter [Output](#output) (`example_output_txt`)
