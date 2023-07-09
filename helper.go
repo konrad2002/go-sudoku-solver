@@ -4,7 +4,7 @@ import "fmt"
 
 // check if field is solved or if there are any illegal placements
 // return: errors, missing (0 == solved)
-func checkField() (bool, int) {
+func (f *Field) checkField() (bool, int) {
 	missing := 0
 	err := false
 
@@ -12,7 +12,7 @@ func checkField() (bool, int) {
 	for i := 0; i < 9; i++ {
 		var m = make(map[int]bool)
 		for j := 0; j < 9; j++ {
-			d := field[i][j]
+			d := f.field[i][j]
 			if d == 0 {
 				missing++
 				continue
@@ -28,7 +28,7 @@ func checkField() (bool, int) {
 	for i := 0; i < 9; i++ {
 		var m = make(map[int]bool)
 		for j := 0; j < 9; j++ {
-			d := field[j][i]
+			d := f.field[j][i]
 			if d == 0 {
 				continue
 			}
@@ -47,7 +47,7 @@ func checkField() (bool, int) {
 			var m = make(map[int]bool)
 			for i := 0; i < 3; i++ {
 				for j := 0; j < 3; j++ {
-					d := field[x*3+i][y*3+j]
+					d := f.field[x*3+i][y*3+j]
 					if d == 0 {
 						continue
 					}
@@ -70,7 +70,7 @@ func checkField() (bool, int) {
 	return err, missing
 }
 
-func possibleNumbers(x int, y int) []int {
+func (f *Field) possibleNumbers(x int, y int) []int {
 	var m = make(map[int]bool)
 	for i := 1; i <= 9; i++ {
 		m[i] = true
@@ -79,12 +79,12 @@ func possibleNumbers(x int, y int) []int {
 	for i := 0; i < 9; i++ {
 		// check row
 		if i != y {
-			d := field[x][i]
+			d := f.field[x][i]
 			m[d] = false
 		}
 		// check col
 		if i != x {
-			d := field[i][y]
+			d := f.field[i][y]
 			m[d] = false
 		}
 	}
@@ -93,7 +93,7 @@ func possibleNumbers(x int, y int) []int {
 	y1 := y / 3
 	for i := 0; i < 3; i++ {
 		for j := 0; j < 3; j++ {
-			d := field[x1*3+i][y1*3+j]
+			d := f.field[x1*3+i][y1*3+j]
 			m[d] = false
 		}
 	}

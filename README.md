@@ -1,7 +1,6 @@
 # go-sudoku-solver
 
-This project contains a small go script that is able to solve easy sudoku riddles.
-If the riddle is too hard, it won't be able to find a solution.
+This project contains a small go script that is able to solve sudoku riddles.
 
 ## Input
 
