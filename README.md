@@ -44,7 +44,7 @@ Given example from above returns:
 ```
 
 The single steps of the solving process are printed to the console as well. An example run
-can be found in [example_output.txt](blob/master/example_output.txt).
+can be found in [example_output.txt](example_output.txt).
 
 ## Functionality - How it works
 
